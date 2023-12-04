@@ -5,7 +5,7 @@ In this game, the player navigates through various levels, which can be represen
 
 
 
-![1](https://github.com/costin-t/Medieval_platformer/assets/104298934/577632c7-3661-450c-8d8c-0f27e2e9178e)
-![2](https://github.com/costin-t/Medieval_platformer/assets/104298934/ec155dee-ad6a-45a2-b2a7-cf32e4eef73d)
-![3](https://github.com/costin-t/Medieval_platformer/assets/104298934/a5b78111-24c3-4db3-86a5-2296d08a4915)
-![4](https://github.com/costin-t/Medieval_platformer/assets/104298934/ae97a961-acf5-45f4-8933-798628ae7b75)
+
+![1](https://github.com/costin-t/Medieval_Jumper/assets/104298934/63b7922f-1d98-4e20-8156-68b384a8030c)
+![2](https://github.com/costin-t/Medieval_Jumper/assets/104298934/400757da-8dc9-4c3c-9dbf-42193b467f3f)
+![3](https://github.com/costin-t/Medieval_Jumper/assets/104298934/7d07352e-d598-49d3-b0f2-c9fc991f2f04)
