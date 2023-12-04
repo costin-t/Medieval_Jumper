@@ -1,4 +1,4 @@
-# Medieval_platformer
+# Medieval_Jumper
 I have utilized Python and Pygame to make a platformer game
 
 In this game, the player navigates through various levels, which can be represented as platforms or terrains with obstacles. The main objective is to reach the portal, which represents progressing to the next level or completing the game. Throughout the game, the difficulty can increase, with more complex levels, challenging obstacles, and additional enemies.
